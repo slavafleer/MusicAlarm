@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Music Alarm</string>
+
+    <string-array name="tones">
+        <item>Good Morning Song</item>
+        <item>EIGHTY215 AND THATSGENO FT. ATOWN0705GOOD - MORNING TO YOU DA BIRDS ARE CHIRPING</item>
+        <item>Lady Gaga - Poker Face</item>
+        <item>Mozart - The Marriage of Figaro</item>
+        <item>Israel IZ Kamakawiwoole - Somewhere Over the Rainbow</item>
+        <item>Tchaikovsky - Waltz of the Flowers</item>
+        <item>Toto - Africa</item>
+    </string-array>
 </resources>
